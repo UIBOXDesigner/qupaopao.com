@@ -1,0 +1,20 @@
+{
+  "name": "InkFlow 墨流",
+  "short_name": "InkFlow",
+  "description": "本地优先的 Markdown 多平台排版、预览与发布工作台。",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f1eb",
+  "theme_color": "#176a50",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
